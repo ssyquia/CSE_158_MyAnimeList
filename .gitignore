@@ -1,0 +1,5 @@
+data/
+*.csv
+*.zip
+kaggle.json
+*.ipynb_checkpoints/
